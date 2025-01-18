@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm rakshanda01-art</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 - 🔭 I’m currently working at JS bank **Fraud Detection Analyst**
 
